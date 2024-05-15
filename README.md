@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chenglong92
-- 👀 My research interests are mixed-precision numerical linear algebra, heterogeneous programming and computational engineering like CFD and CEM.
+- 👀 My research interests are AI4Compiler, mixed-precision numerical linear algebra, heterogeneous programming and computational engineering like CFD and CEM.
 - 🌱 I’m currently learning SYCL spec. and the domain-specific chip architecture including AI Nueral-network Processing Units(NPU) and ARM CPU.
-- 💞️ I’m looking to collaborate on computational eletromagnetics and mixed-precision algorithms.
 - 📫 How to reach me. My personal homepage is https://chenglong92.github.io/
 
 <!---
